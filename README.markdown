@@ -88,19 +88,6 @@ matplotlib
 MIT License. See `LICENSE` file for details.
 
 ---
-
-
-```
-
-### `requirements.txt`
-```
-pandas
-numpy
-rdkit
-scikit-learn
-matplotlib
-```
-
 ### `LICENSE`
 ```
 MIT License
