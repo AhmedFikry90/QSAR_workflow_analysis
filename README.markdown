@@ -26,7 +26,7 @@ qsar-analysis/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AhmedFikry90/QSAR_workflow_analysis.git
-   cd qsar-analysis
+   cd QSAR_workflow_analysis
    ```
 
 2. **Create a Virtual Environment**:
